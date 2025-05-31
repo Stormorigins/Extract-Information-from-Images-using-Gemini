@@ -4,7 +4,7 @@ import google.generativeai as genai
 import io
 
 # Configure API key
-genai.configure(api_key="AIzaSyBei2Pox7ocMMlJxMM5ZoHa7gcI1kuGJ_8")
+genai.configure(api_key="         ")
 
 # Load Gemini Vision Model
 model = genai.GenerativeModel("models/gemini-1.5-flash")
